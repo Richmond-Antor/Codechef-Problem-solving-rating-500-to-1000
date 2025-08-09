@@ -3,6 +3,10 @@
 using namespace std;
 
 int main() {
+
+
+
+    
 int t,a,b,c;
 std::cin >> t;
 while(t--){
